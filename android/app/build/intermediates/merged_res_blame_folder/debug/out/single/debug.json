@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_bag.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\image_bag.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_aboutreact.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\image_aboutreact.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_amb.jpeg.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\image_amb.jpeg"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app.json.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\raw\\app.json"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_info.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\image_info.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_success.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\image_success.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_edit.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\image_edit.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\reactNative\\reglog\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\reactNative\\reglog\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

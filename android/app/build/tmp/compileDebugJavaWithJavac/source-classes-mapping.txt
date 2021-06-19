@@ -1,0 +1,14 @@
+com/reglog/ReactNativeFlipper.java
+ com.reglog.ReactNativeFlipper
+ com.reglog.ReactNativeFlipper$1
+ com.reglog.ReactNativeFlipper$2
+ com.reglog.ReactNativeFlipper$2$1
+com/reglog/MainActivity.java
+ com.reglog.MainActivity
+com/reglog/MainApplication.java
+ com.reglog.MainApplication
+ com.reglog.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/reglog/BuildConfig.java
+ com.reglog.BuildConfig
